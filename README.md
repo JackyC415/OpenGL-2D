@@ -1,2 +1,2 @@
 # OpenGL-2D
-Two dimensional survival game implemented by C++ w/ OpenGL graphics framework
+Two dimensional action based game, marioDash, implemented by C++ with OpenGL libary framework.
